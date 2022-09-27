@@ -106,7 +106,7 @@ a:hover {
 
 .btn-primary {
     background: var(--color-primary);
-    color: var(--color-bg)
+    color: var(--color-bg);
 }
 
 img {
@@ -119,7 +119,7 @@ img {
 
 @media screen and (max-width: 1024px) {
     .container {
-        width: var(--container-width-md)
+        width: var(--container-width-md);
     }
     section {
         margin-top: 6rem;
@@ -129,7 +129,7 @@ img {
 /* Media Queries (small devices)*/
 @media screen and (max-width: 600px) {
     .container {
-        width: var(--container-width-sm)
+        width: var(--container-width-sm);
     }
 
     section > h2 {
