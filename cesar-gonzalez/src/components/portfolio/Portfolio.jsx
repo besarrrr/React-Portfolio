@@ -2,28 +2,29 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/img1.png'
 import IMG2 from '../../assets/img2.png'
+import IMG3 from '../../assets/img3.png'
 
 const data = [
   {
     id:1,
     image: IMG1,
     title: 'Dragons and Chats',
-    github: "https://github.com",
-    demo: "https://github.com"
+    github: "https://github.com/Kaysie04/Project-2-DRAGONS-CHATS",
+    demo: "https://dragons-chat-final.herokuapp.com/"
   },
   {
     id:2,
     image: IMG2,
     title: 'Foodle',
-    github: "https://github.com",
-    demo: "https://github.com"
+    github: "https://github.com/besarrrr/Foodle",
+    demo: "https://kate-github.github.io/Foodle/"
   },
   {
     id:3,
-    image: IMG1,
-    title: 'Dragons and Chats',
-    github: "https://github.com",
-    demo: "https://github.com"
+    image: IMG3,
+    title: 'Music Meet Up',
+    github: "https://github.com/luketorv/music-meetup2",
+    demo: "https://boiling-plateau-66922.herokuapp.com/"
   },
   {
     id:4,
