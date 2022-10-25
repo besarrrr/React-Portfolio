@@ -32,7 +32,7 @@ const data = [
     image: IMG4,
     title: 'Personal Dashboard',
     github: "https://github.com/besarrrr/DashBoard",
-    demo: "https://besarrrr.github.io/"
+    demo: "https://besarrrr.github.io/DashBoard",
   },
   {
     id:5,
