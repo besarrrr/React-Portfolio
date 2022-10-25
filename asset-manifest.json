@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.71288287.css",
-    "main.js": "/React-Portfolio/static/js/main.db25518a.js",
+    "main.js": "/React-Portfolio/static/js/main.b9ffc381.js",
     "static/media/img2.png": "/React-Portfolio/static/media/img2.4bf94011be0d339fbbcd.png",
     "static/media/img4.png": "/React-Portfolio/static/media/img4.c77f2dbb752dcc687c71.png",
     "static/media/img1.png": "/React-Portfolio/static/media/img1.a00c6af0a7f2fd050af2.png",
@@ -10,10 +10,10 @@
     "static/media/Resume - Gonzalez, Cesar.pdf": "/React-Portfolio/static/media/Resume - Gonzalez, Cesar.8a0d30455db91f86f563.pdf",
     "index.html": "/React-Portfolio/index.html",
     "main.71288287.css.map": "/React-Portfolio/static/css/main.71288287.css.map",
-    "main.db25518a.js.map": "/React-Portfolio/static/js/main.db25518a.js.map"
+    "main.b9ffc381.js.map": "/React-Portfolio/static/js/main.b9ffc381.js.map"
   },
   "entrypoints": [
     "static/css/main.71288287.css",
-    "static/js/main.db25518a.js"
+    "static/js/main.b9ffc381.js"
   ]
 }
