@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/img1.png'
 import IMG2 from '../../assets/img2.png'
 import IMG3 from '../../assets/img3.png'
+import IMG4 from '../../assets/img4.png'
 
 const data = [
   {
@@ -28,22 +29,22 @@ const data = [
   },
   {
     id:4,
-    image: IMG1,
-    title: 'Dragons and Chats',
-    github: "https://github.com",
-    demo: "https://github.com"
+    image: IMG4,
+    title: 'Personal Dashboard',
+    github: "https://github.com/besarrrr/DashBoard",
+    demo: "https://besarrrr.github.io/"
   },
   {
     id:5,
     image: IMG1,
-    title: 'Dragons and Chats',
+    title: 'Coming Soon',
     github: "https://github.com",
     demo: "https://github.com"
   },
   {
     id:6,
     image: IMG1,
-    title: 'Dragons and Chats',
+    title: 'Coming Soon',
     github: "https://github.com",
     demo: "https://github.com"
   },
